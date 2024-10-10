@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pragatisharma21
-- 👀 I’m interested in Technology & Programming and Problem solving
+- 👀 I’m interested in Technology & Programming 
 - 🌱 I’m currently learning full stack web development with a focus on React,Node.js, Express and Mongo DB. My goal is to master both frontend and backend technologies to build scalable and dynamic web applications
 - 💞️ I’m looking to collaborate on full stack web development projects that involve creating dynamic and user-friendly web application 
 - 📫 How to reach me pragatis212@gmail.com
