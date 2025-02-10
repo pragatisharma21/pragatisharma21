@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 My recent projects:  
-  - [Ecommerce Website](https://the-script-squad-fe.vercel.app/#)  
+  - [Ecommerce Website](https://the-script-squad-fe.vercel.app))  
   - [QR Scanner Site](https://nutriscan-frontend.vercel.app/)  
 
 - 🌱 I’m currently learning **High-Level System Design**  
