@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @pragatisharma21
-- 👀 I’m interested in Technology & Programming 
-- 🌱 I’m currently learning full stack web development with a focus on React,Node.js, Express and Mongo DB. My goal is to master both frontend and backend technologies to build scalable and dynamic web applications
-- 💞️ I’m looking to collaborate on full stack web development projects that involve creating dynamic and user-friendly web application 
-- 📫 How to reach me pragatis212@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Tech Enthusiast: I'm passionate about technology and love exploring the latest gadgets and software innovations and chess lover: I'm a huge chess enthusiast and often spend my free time playing online chess matches
+Hi there!  I'm Pragati
+🚀 Full Stack Developer from India
+💡 Passionate about building large-scale systems using advanced technologies
+🧠 Love solving complex problems with elegant solutions
+🌟 Committed to creating robust and impactful software
 
-<!---
-pragatisharma21/pragatisharma21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me:
+💻 Full-time developer
+
+💬 Ask Me About:
+JavaScript: Mastering modern features and best practices
+Node.js: Crafting APIs and building powerful servers with Express
+💻 Tech Stack:
+JavaScript  TypeScript  Node.js  HTML5  CSS3  Bootstrap  TailwindCSS  MySQL  MongoDB  Redis  Docker  Git  GitHub  Postman  Webpack  Figma  AmazonAWS  Streamlit  Python
+
+📈 GitHub Stats:
+ 
+
+🏆 GitHub Trophies:
+
+
+📫 How to Reach Me:
+ www.linkedin.com/in/pragati-sharma-45b8a3214
