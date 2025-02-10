@@ -15,5 +15,5 @@ JavaScript  TypeScript  Node.js  HTML5  CSS3  Bootstrap  TailwindCSS  MySQL  Mon
 
 
 📫 How to Reach Me:
-https://pragati-sharma.vercel.app/
- www.linkedin.com/in/pragati-sharma-45b8a3214
+PORTFOLIO: https://pragati-sharma.vercel.app/
+LINKEDIN:  www.linkedin.com/in/pragati-sharma-45b8a3214
