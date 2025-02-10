@@ -7,7 +7,8 @@
 
 - 🔭 My recent projects:  
   - [Ecommerce Website](https://the-script-squad-fe.vercel.app) 
-  - [QR Scanner Site](https://nutriscan-frontend.vercel.app/)  
+  - [QR Scanner Site](https://nutriscan-frontend.vercel.app/)
+  - [Finance App](https://finance-app-three-ashen.vercel.app/)  
 
 - 🌱 I’m currently learning **High-Level System Design**  
 - 👯 Check out my **[3D Portfolio](https://pragati-sharma.vercel.app/)**  
