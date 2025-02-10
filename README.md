@@ -13,11 +13,6 @@ Node.js: Crafting APIs and building powerful servers with Express
 💻 Tech Stack:
 JavaScript  TypeScript  Node.js  HTML5  CSS3  Bootstrap  TailwindCSS  MySQL  MongoDB  Redis  Docker  Git  GitHub  Postman  Webpack  Figma  AmazonAWS  Streamlit  Python
 
-📈 GitHub Stats:
- 
-
-🏆 GitHub Trophies:
-
 
 📫 How to Reach Me:
  www.linkedin.com/in/pragati-sharma-45b8a3214
